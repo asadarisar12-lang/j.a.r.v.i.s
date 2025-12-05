@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis AI - Live Interface",
+  "description": "A real-time voice-to-voice AI assistant inspired by Jarvis, featuring Gemini Live API, holographic visuals, and function calling capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
